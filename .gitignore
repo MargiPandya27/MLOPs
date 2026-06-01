@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Personal log for command
+command.txt
+
+
+# ENVs
+mlops_env/
